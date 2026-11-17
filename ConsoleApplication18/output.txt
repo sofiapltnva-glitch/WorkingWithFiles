@@ -1,0 +1,11 @@
+Capacity limit (GB): 1000.00
+Selected drives (capacity > limit):
+Manufacturer;Model;Capacity_GB;RPM;Price_RUB
+Western Digital;WD20EZBX;2000.00;7200;6500.00
+Seagate;ST4000DM004;4000.00;5400;9500.00
+Selected count: 2
+Average price (RUB): 8000.00
+Cheapest drive:
+Western Digital;WD5000AAKX;500.00;7200;3000.00
+Most expensive drive:
+Seagate;ST4000DM004;4000.00;5400;9500.00
